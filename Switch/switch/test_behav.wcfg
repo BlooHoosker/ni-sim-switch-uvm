@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="test_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="test" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="486166666fs"></ZoomStartTime>
+      <ZoomEndTime time="622766667fs"></ZoomEndTime>
+      <Cursor1Time time="600000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="199"></NameColumnWidth>
+      <ValueColumnWidth column_width="230"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="16" />
+   <wvobject fp_name="/test/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/mem_port_index" type="array">
+      <obj_property name="ElementShortName">mem_port_index[3:0]</obj_property>
+      <obj_property name="ObjectShortName">mem_port_index[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_address" type="array">
+      <obj_property name="ElementShortName">port_address[7:0]</obj_property>
+      <obj_property name="ObjectShortName">port_address[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/mem_write" type="logic">
+      <obj_property name="ElementShortName">mem_write</obj_property>
+      <obj_property name="ObjectShortName">mem_write</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/packet_data" type="array">
+      <obj_property name="ElementShortName">packet_data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">packet_data[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/packet_sent_req" type="logic">
+      <obj_property name="ElementShortName">packet_sent_req</obj_property>
+      <obj_property name="ObjectShortName">packet_sent_req</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/packet_finished" type="logic">
+      <obj_property name="ElementShortName">packet_finished</obj_property>
+      <obj_property name="ObjectShortName">packet_finished</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_req" type="array">
+      <obj_property name="ElementShortName">port_req[9:0]</obj_property>
+      <obj_property name="ObjectShortName">port_req[9:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_data" type="array">
+      <obj_property name="ElementShortName">port_data[79:0]</obj_property>
+      <obj_property name="ObjectShortName">port_data[79:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/port_received" type="array">
+      <obj_property name="ElementShortName">port_received[9:0]</obj_property>
+      <obj_property name="ObjectShortName">port_received[9:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/i_switch/curr_state" type="array">
+      <obj_property name="ElementShortName">curr_state[2:0]</obj_property>
+      <obj_property name="ObjectShortName">curr_state[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/i_switch/i_memory/memory_reg" type="array">
+      <obj_property name="ElementShortName">memory_reg[9:0][7:0]</obj_property>
+      <obj_property name="ObjectShortName">memory_reg[9:0][7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/addr_mirror" type="array">
+      <obj_property name="ElementShortName">addr_mirror[9:0][7:0]</obj_property>
+      <obj_property name="ObjectShortName">addr_mirror[9:0][7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/found_port" type="array">
+      <obj_property name="ElementShortName">found_port[31:0]</obj_property>
+      <obj_property name="ObjectShortName">found_port[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/i_switch/curr_port_i" type="array">
+      <obj_property name="ElementShortName">curr_port_i[3:0]</obj_property>
+      <obj_property name="ObjectShortName">curr_port_i[3:0]</obj_property>
+   </wvobject>
+</wave_config>

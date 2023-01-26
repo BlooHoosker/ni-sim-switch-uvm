@@ -1,0 +1,172 @@
+D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/top.sv {1 {vlog -work work -vopt -sv -stats=none D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/top.sv
+QuestaSim-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module memory
+-- Compiling module switch
+-- Compiling module top
+-- Importing package my_pkg
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+
+Top level modules:
+	top
+
+} {} {}} D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/my_monitor.sv {1 {vlog -work work -source -vopt -sv +incdir+D:/OneDrive/CVUT/Magistr/SIM/switch_uvm -stats=none D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/my_monitor.sv
+QuestaSim-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+** Note: (vlog-2286) D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/my_monitor.sv(3): Using implicit +incdir+C:/questasim64_2020.4/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+-- Compiling package my_monitor_sv_unit
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package my_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/if_in.sv {1 {vlog -work work -source -vopt -sv +incdir+D:/OneDrive/CVUT/Magistr/SIM/switch_uvm -stats=none D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/if_in.sv
+QuestaSim-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling interface if_in
+-- Importing package my_pkg
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+
+Top level modules:
+	--none--
+
+} {} {}} D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/if_out.sv {1 {vlog -work work -source -vopt -sv +incdir+D:/OneDrive/CVUT/Magistr/SIM/switch_uvm -stats=none D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/if_out.sv
+QuestaSim-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling interface if_out
+-- Importing package my_pkg
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+
+Top level modules:
+	--none--
+
+} {} {}} D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/my_env.sv {1 {vlog -work work -source -vopt -sv +incdir+D:/OneDrive/CVUT/Magistr/SIM/switch_uvm -stats=none D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/my_env.sv
+QuestaSim-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+** Note: (vlog-2286) D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/my_env.sv(3): Using implicit +incdir+C:/questasim64_2020.4/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+-- Compiling package my_env_sv_unit
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package my_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/my_sequence.sv {1 {vlog -work work -source -vopt -sv +incdir+D:/OneDrive/CVUT/Magistr/SIM/switch_uvm -stats=none D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/my_sequence.sv
+QuestaSim-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+** Note: (vlog-2286) D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/my_sequence.sv(3): Using implicit +incdir+C:/questasim64_2020.4/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+-- Compiling package my_sequence_sv_unit
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package my_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/my_scoreboard.sv {1 {vlog -work work -source -vopt -sv +incdir+D:/OneDrive/CVUT/Magistr/SIM/switch_uvm -stats=none D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/my_scoreboard.sv
+QuestaSim-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+** Note: (vlog-2286) D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/my_scoreboard.sv(3): Using implicit +incdir+C:/questasim64_2020.4/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+-- Compiling package my_scoreboard_sv_unit
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package my_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/uvm_top.sv {1 {vlog -work work -source -vopt -sv +incdir+D:/OneDrive/CVUT/Magistr/SIM/switch_uvm -stats=none D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/uvm_top.sv
+QuestaSim-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+** Note: (vlog-2286) my_item.sv(3): Using implicit +incdir+C:/questasim64_2020.4/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+-- Compiling package uvm_top_sv_unit
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package my_pkg
+-- Compiling package my_pkg
+-- Compiling interface if_out
+-- Compiling interface if_in
+-- Compiling module memory
+-- Compiling module switch
+-- Compiling module top
+-- Compiling module uvm_top
+
+Top level modules:
+	uvm_top
+
+} {} {}} D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/my_in_monitor.sv {1 {vlog -work work -source -vopt -sv +incdir+D:/OneDrive/CVUT/Magistr/SIM/switch_uvm -stats=none D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/my_in_monitor.sv
+QuestaSim-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+** Note: (vlog-2286) D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/my_in_monitor.sv(3): Using implicit +incdir+C:/questasim64_2020.4/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+-- Compiling package my_in_monitor_sv_unit
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package my_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/my_item.sv {1 {vlog -work work -source -vopt -sv +incdir+D:/OneDrive/CVUT/Magistr/SIM/switch_uvm -stats=none D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/my_item.sv
+QuestaSim-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+** Note: (vlog-2286) D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/my_item.sv(3): Using implicit +incdir+C:/questasim64_2020.4/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+-- Compiling package my_item_sv_unit
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package my_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/my_test.sv {1 {vlog -work work -source -vopt -sv +incdir+D:/OneDrive/CVUT/Magistr/SIM/switch_uvm -stats=none D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/my_test.sv
+QuestaSim-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+** Note: (vlog-2286) D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/my_test.sv(3): Using implicit +incdir+C:/questasim64_2020.4/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+-- Compiling package my_test_sv_unit
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package my_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/config.sv {1 {vlog -work work -source -vopt -sv +incdir+D:/OneDrive/CVUT/Magistr/SIM/switch_uvm -stats=none D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/config.sv
+QuestaSim-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+** Note: (vlog-2286) D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/config.sv(3): Using implicit +incdir+C:/questasim64_2020.4/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+-- Compiling package config_sv_unit
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package my_pkg
+-- Compiling package my_pkg
+-- Compiling interface if_out
+-- Compiling interface if_in
+-- Compiling module memory
+-- Compiling module switch
+-- Compiling module top
+-- Compiling module uvm_top
+-- Compiling configuration cfg1
+
+Top level modules:
+	cfg1
+
+} {} {}} D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/my_pkg.sv {1 {vlog -work work -source -vopt -sv +incdir+D:/OneDrive/CVUT/Magistr/SIM/switch_uvm -stats=none D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/my_pkg.sv
+QuestaSim-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling package my_pkg
+** Note: (vlog-2286) my_item.sv(3): Using implicit +incdir+C:/questasim64_2020.4/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+
+Top level modules:
+	--none--
+
+} {} {}} D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/my_sequencer.sv {1 {vlog -work work -source -vopt -sv +incdir+D:/OneDrive/CVUT/Magistr/SIM/switch_uvm -stats=none D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/my_sequencer.sv
+QuestaSim-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+** Note: (vlog-2286) D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/my_sequencer.sv(3): Using implicit +incdir+C:/questasim64_2020.4/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+-- Compiling package my_sequencer_sv_unit
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package my_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/switch_top.v {1 {vlog -work work -vopt -stats=none D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/switch_top.v
+QuestaSim-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module memory
+-- Compiling module switch
+
+Top level modules:
+	switch
+
+} {} {}} D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/my_driver.sv {1 {vlog -work work -source -vopt -sv +incdir+D:/OneDrive/CVUT/Magistr/SIM/switch_uvm -stats=none D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/my_driver.sv
+QuestaSim-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+** Note: (vlog-2286) D:/OneDrive/CVUT/Magistr/SIM/switch_uvm/my_driver.sv(3): Using implicit +incdir+C:/questasim64_2020.4/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+-- Compiling package my_driver_sv_unit
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package my_pkg
+
+Top level modules:
+	--none--
+
+} {} {}}

@@ -1,0 +1,44 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+========== Writing address ==========
+Address: 42
+Port: 3
+========== Finished writing address ==========
+========== Sending packet ==========
+Address: 42
+Data (hexa): 45
+Found port by address: 3
+========== Finished sending packet ==========
+========== Sending packet ==========
+Address: 69
+Data (hexa): 45
+Found port by address: -1
+========== Finished sending packet ==========
+========== Writing address ==========
+Address: 42
+Port: 4
+========== Finished writing address ==========
+========== Writing address ==========
+Address: 13
+Port: 3
+========== Finished writing address ==========
+========== Sending packet ==========
+Address: 42
+Data (hexa): 45
+Found port by address: -1
+========== Finished sending packet ==========
+========== Sending packet ==========
+Address: 13
+Data (hexa): 45
+Found port by address: 3
+========== Writing address ==========
+Address: 69
+Port: 5
+========== Finished writing address ==========
+========== Finished sending packet ==========
+========== Sending packet ==========
+Address: 69
+Data (hexa): 45
+Found port by address: -1
+========== Finished sending packet ==========
+$finish called at time : 600 ns : File "C:/Users/marti/OneDrive/CVUT/Magistr/SIM/Switch/tb_switch.v" Line 214

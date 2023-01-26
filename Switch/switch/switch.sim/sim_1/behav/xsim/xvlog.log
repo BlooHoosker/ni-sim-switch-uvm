@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/marti/OneDrive/CVUT/Magistr/SIM/Switch/switch_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module memory
+INFO: [VRFC 10-311] analyzing module switch
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/marti/OneDrive/CVUT/Magistr/SIM/Switch/tb_switch.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/marti/OneDrive/CVUT/Magistr/SIM/Switch/switch/switch.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
